@@ -6,7 +6,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/cbc-stethoscope.png",
+    "img": "./cbc-stethoscope.png",
     "imgExists": true
   },
   {
@@ -16,7 +16,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/cbc-pinard-stethoscope.png",
+    "img": "./cbc-pinard-stethoscope.png",
     "imgExists": true
   },
   {
@@ -26,7 +26,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/cbc-clipwatch.png",
+    "img": "./cbc-clipwatch.png",
     "imgExists": true
   },
   {
@@ -36,7 +36,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/babyfeed-2.png",
+    "img": "./babyfeed-2.png",
     "imgExists": true
   },
   {
@@ -46,7 +46,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/electrical-breast-pump-sensitive-cfh.jpg",
+    "img": "./electrical-breast-pump-sensitive-cfh.jpg",
     "imgExists": true
   },
   {
@@ -56,7 +56,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/electrical-breast-pump-lactive.jpg",
+    "img": "./electrical-breast-pump-lactive.jpg",
     "imgExists": true
   },
   {
@@ -66,7 +66,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/breast-shield-2.jpg",
+    "img": "./breast-shield-2.jpg",
     "imgExists": true
   },
   {
@@ -76,7 +76,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/electrical-breast-pump-sensitive-c.png",
+    "img": "./electrical-breast-pump-sensitive-c.png",
     "imgExists": true
   },
   {
@@ -86,7 +86,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/milk-collection-bowl.jpg",
+    "img": "./milk-collection-bowl.jpg",
     "imgExists": true
   },
   {
@@ -96,7 +96,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/hydro-gel.jpg",
+    "img": "./hydro-gel.jpg",
     "imgExists": true
   },
   {
@@ -106,7 +106,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/nursing-pads.jpg",
+    "img": "./nursing-pads.jpg",
     "imgExists": true
   },
   {
@@ -116,7 +116,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/breast-shield.jpg",
+    "img": "./breast-shield.jpg",
     "imgExists": true
   },
   {
@@ -126,7 +126,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/suction-kit-premium-s-l-xl.jpg",
+    "img": "./suction-kit-premium-s-l-xl.jpg",
     "imgExists": true
   },
   {
@@ -136,7 +136,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/breast-creme.jpg",
+    "img": "./breast-creme.jpg",
     "imgExists": true
   },
   {
@@ -146,7 +146,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/soft-bag.png",
+    "img": "./soft-bag.png",
     "imgExists": true
   },
   {
@@ -156,7 +156,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/thermo-pack.jpg",
+    "img": "./thermo-pack.jpg",
     "imgExists": true
   },
   {
@@ -166,7 +166,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/breast-milk-freezer-bags.jpg",
+    "img": "./breast-milk-freezer-bags.jpg",
     "imgExists": true
   },
   {
@@ -176,7 +176,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/manual-breast-pump-easy.jpg",
+    "img": "./manual-breast-pump-easy.jpg",
     "imgExists": true
   },
   {
@@ -186,7 +186,7 @@
     "category": "baby",
     "categoryName": "Baby & Mother Care",
     "categoryNameAr": "رعاية الأم والطفل",
-    "img": "./products/babyfeed.jpg",
+    "img": "./babyfeed.jpg",
     "imgExists": true
   },
   {
@@ -196,7 +196,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/gauze-swab-ray-tech-2.png",
+    "img": "./gauze-swab-ray-tech-2.png",
     "imgExists": true
   },
   {
@@ -206,7 +206,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/gauze-swab-ray-tech.png",
+    "img": "./gauze-swab-ray-tech.png",
     "imgExists": true
   },
   {
@@ -216,7 +216,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/heel-warmer.jpg",
+    "img": "./heel-warmer.jpg",
     "imgExists": true
   },
   {
@@ -226,7 +226,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/instant-hot-pack.png",
+    "img": "./instant-hot-pack.png",
     "imgExists": true
   },
   {
@@ -236,7 +236,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/instant-ice-compress.png",
+    "img": "./instant-ice-compress.png",
     "imgExists": true
   },
   {
@@ -246,7 +246,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/benzalkonium-chloride-swab.png",
+    "img": "./benzalkonium-chloride-swab.png",
     "imgExists": true
   },
   {
@@ -256,7 +256,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/lemon-glycerine-swab.png",
+    "img": "./lemon-glycerine-swab.png",
     "imgExists": true
   },
   {
@@ -266,7 +266,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/povidine-iodine-usp.png",
+    "img": "./povidine-iodine-usp.png",
     "imgExists": true
   },
   {
@@ -276,7 +276,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/isopropyl-alcohol-swab.png",
+    "img": "./isopropyl-alcohol-swab.png",
     "imgExists": true
   },
   {
@@ -286,7 +286,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/chlorhexidine-gluocanate-swab.png",
+    "img": "./chlorhexidine-gluocanate-swab.png",
     "imgExists": true
   },
   {
@@ -296,7 +296,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/swab-stick-chloroxidine-aqueous.png",
+    "img": "./swab-stick-chloroxidine-aqueous.png",
     "imgExists": true
   },
   {
@@ -306,7 +306,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/swab-stick-chloroxidine-alcohol.png",
+    "img": "./swab-stick-chloroxidine-alcohol.png",
     "imgExists": true
   },
   {
@@ -316,7 +316,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/cotton-applicator.png",
+    "img": "./cotton-applicator.png",
     "imgExists": true
   },
   {
@@ -326,7 +326,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/alcohol-swabs.png",
+    "img": "./alcohol-swabs.png",
     "imgExists": true
   },
   {
@@ -336,7 +336,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/tongue-depressor.png",
+    "img": "./tongue-depressor.png",
     "imgExists": true
   },
   {
@@ -346,7 +346,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/cotton-wool.png",
+    "img": "./cotton-wool.png",
     "imgExists": true
   },
   {
@@ -356,7 +356,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/cotton-ball.png",
+    "img": "./cotton-ball.png",
     "imgExists": true
   },
   {
@@ -366,7 +366,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/slide-glass-2.png",
+    "img": "./slide-glass-2.png",
     "imgExists": true
   },
   {
@@ -376,7 +376,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/slide-glass.png",
+    "img": "./slide-glass.png",
     "imgExists": true
   },
   {
@@ -386,7 +386,7 @@
     "category": "emergency",
     "categoryName": "Emergency & Others",
     "categoryNameAr": "الطوارئ وغيرها",
-    "img": "./products/first-aid-kit.png",
+    "img": "./first-aid-kit.png",
     "imgExists": true
   },
   {
@@ -396,7 +396,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/cervical-collar-philadelphia.png",
+    "img": "./cervical-collar-philadelphia.png",
     "imgExists": true
   },
   {
@@ -406,7 +406,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/orthosis-joint-support.png",
+    "img": "./orthosis-joint-support.png",
     "imgExists": true
   },
   {
@@ -416,7 +416,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/arm-sling.png",
+    "img": "./arm-sling.png",
     "imgExists": true
   },
   {
@@ -426,7 +426,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/cervical-collar-soft-foam.png",
+    "img": "./cervical-collar-soft-foam.png",
     "imgExists": true
   },
   {
@@ -436,7 +436,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/stretcher-belt.png",
+    "img": "./stretcher-belt.png",
     "imgExists": true
   },
   {
@@ -446,7 +446,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/wheelchair-belt.png",
+    "img": "./wheelchair-belt.png",
     "imgExists": true
   },
   {
@@ -456,7 +456,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/cane.png",
+    "img": "./cane.png",
     "imgExists": true
   },
   {
@@ -466,7 +466,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/crutch-elbow.png",
+    "img": "./crutch-elbow.png",
     "imgExists": true
   },
   {
@@ -476,7 +476,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/crutch-axillary.png",
+    "img": "./crutch-axillary.png",
     "imgExists": true
   },
   {
@@ -486,7 +486,7 @@
     "category": "physiotherapy",
     "categoryName": "Physiotherapy",
     "categoryNameAr": "العلاج الطبيعي",
-    "img": "./products/walking-frame.png",
+    "img": "./walking-frame.png",
     "imgExists": true
   },
   {
@@ -496,7 +496,7 @@
     "category": "plastic-bags",
     "categoryName": "Plastic Bags",
     "categoryNameAr": "الأكياس البلاستيكية",
-    "img": "./products/plastic-bag-printed.png",
+    "img": "./plastic-bag-printed.png",
     "imgExists": true
   },
   {
@@ -506,7 +506,7 @@
     "category": "plastic-bags",
     "categoryName": "Plastic Bags",
     "categoryNameAr": "الأكياس البلاستيكية",
-    "img": "./products/laundry-bag-soluble.png",
+    "img": "./laundry-bag-soluble.png",
     "imgExists": true
   },
   {
@@ -516,7 +516,7 @@
     "category": "plastic-bags",
     "categoryName": "Plastic Bags",
     "categoryNameAr": "الأكياس البلاستيكية",
-    "img": "./products/pill-crusher-bag.png",
+    "img": "./pill-crusher-bag.png",
     "imgExists": true
   },
   {
@@ -526,7 +526,7 @@
     "category": "plastic-bags",
     "categoryName": "Plastic Bags",
     "categoryNameAr": "الأكياس البلاستيكية",
-    "img": "./products/zip-lock-plastic-bag.png",
+    "img": "./zip-lock-plastic-bag.png",
     "imgExists": true
   },
   {
@@ -536,7 +536,7 @@
     "category": "plastic-bags",
     "categoryName": "Plastic Bags",
     "categoryNameAr": "الأكياس البلاستيكية",
-    "img": "./products/zip-lock-bag-plastic-biohazard.png",
+    "img": "./zip-lock-bag-plastic-biohazard.png",
     "imgExists": true
   },
   {
@@ -546,7 +546,7 @@
     "category": "plastic-bottles",
     "categoryName": "Plastic Bottles",
     "categoryNameAr": "الزجاجات البلاستيكية",
-    "img": "./products/medicine-container.png",
+    "img": "./medicine-container.png",
     "imgExists": true
   },
   {
@@ -556,7 +556,7 @@
     "category": "plastic-bottles",
     "categoryName": "Plastic Bottles",
     "categoryNameAr": "الزجاجات البلاستيكية",
-    "img": "./products/medicine-bottle.png",
+    "img": "./medicine-bottle.png",
     "imgExists": true
   },
   {
@@ -566,7 +566,7 @@
     "category": "plastic-bottles",
     "categoryName": "Plastic Bottles",
     "categoryNameAr": "الزجاجات البلاستيكية",
-    "img": "./products/plastic-medicine-cup.png",
+    "img": "./plastic-medicine-cup.png",
     "imgExists": true
   },
   {
@@ -576,7 +576,7 @@
     "category": "plastic-bottles",
     "categoryName": "Plastic Bottles",
     "categoryNameAr": "الزجاجات البلاستيكية",
-    "img": "./products/plastic-medicine-dropper.png",
+    "img": "./plastic-medicine-dropper.png",
     "imgExists": true
   },
   {
@@ -586,7 +586,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/cleaning-cloth-2.png",
+    "img": "./cleaning-cloth-2.png",
     "imgExists": true
   },
   {
@@ -596,7 +596,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/cleaning-cloth.png",
+    "img": "./cleaning-cloth.png",
     "imgExists": true
   },
   {
@@ -606,7 +606,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/dry-ablution-kit.png",
+    "img": "./dry-ablution-kit.png",
     "imgExists": true
   },
   {
@@ -616,7 +616,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/vomit-bag.png",
+    "img": "./vomit-bag.png",
     "imgExists": true
   },
   {
@@ -626,7 +626,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/bedpan.png",
+    "img": "./bedpan.png",
     "imgExists": true
   },
   {
@@ -636,7 +636,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/basin-emesis.png",
+    "img": "./basin-emesis.png",
     "imgExists": true
   },
   {
@@ -646,7 +646,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/wash-basin.png",
+    "img": "./wash-basin.png",
     "imgExists": true
   },
   {
@@ -656,7 +656,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/personal-tray.png",
+    "img": "./personal-tray.png",
     "imgExists": true
   },
   {
@@ -666,7 +666,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/shaving-razor.png",
+    "img": "./shaving-razor.png",
     "imgExists": true
   },
   {
@@ -676,7 +676,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/comb.png",
+    "img": "./comb.png",
     "imgExists": true
   },
   {
@@ -686,7 +686,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/toothbrush-children.png",
+    "img": "./toothbrush-children.png",
     "imgExists": true
   },
   {
@@ -696,7 +696,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/toothbrush-adult.png",
+    "img": "./toothbrush-adult.png",
     "imgExists": true
   },
   {
@@ -706,7 +706,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/bracelet-id-band-for-allergy.png",
+    "img": "./bracelet-id-band-for-allergy.png",
     "imgExists": true
   },
   {
@@ -716,7 +716,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/bracelet-id-band-kit.png",
+    "img": "./bracelet-id-band-kit.png",
     "imgExists": true
   },
   {
@@ -726,7 +726,7 @@
     "category": "patient",
     "categoryName": "Patient Care",
     "categoryNameAr": "رعاية المرضى",
-    "img": "./products/bracelet-id-band.png",
+    "img": "./bracelet-id-band.png",
     "imgExists": true
   },
   {
@@ -736,7 +736,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/disopsable-silicone-laryngeal-mask.png",
+    "img": "./disopsable-silicone-laryngeal-mask.png",
     "imgExists": true
   },
   {
@@ -746,7 +746,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/disopsable-pvc-laryngeal-mask.png",
+    "img": "./disopsable-pvc-laryngeal-mask.png",
     "imgExists": true
   },
   {
@@ -756,7 +756,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/three-way-stopcock.png",
+    "img": "./three-way-stopcock.png",
     "imgExists": true
   },
   {
@@ -766,7 +766,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/yankauer-handle.png",
+    "img": "./yankauer-handle.png",
     "imgExists": true
   },
   {
@@ -776,7 +776,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/suction-catheter.png",
+    "img": "./suction-catheter.png",
     "imgExists": true
   },
   {
@@ -786,7 +786,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/suction-connection-tube.png",
+    "img": "./suction-connection-tube.png",
     "imgExists": true
   },
   {
@@ -796,7 +796,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/nebulizer-kit.png",
+    "img": "./nebulizer-kit.png",
     "imgExists": true
   },
   {
@@ -806,7 +806,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/swivel-oxygen-mask.png",
+    "img": "./swivel-oxygen-mask.png",
     "imgExists": true
   },
   {
@@ -816,7 +816,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/swivel-nebulizer-mask.png",
+    "img": "./swivel-nebulizer-mask.png",
     "imgExists": true
   },
   {
@@ -826,7 +826,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/soft-tip-nasal-oxygen-cannula.png",
+    "img": "./soft-tip-nasal-oxygen-cannula.png",
     "imgExists": true
   },
   {
@@ -836,7 +836,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/nasal-oxygen-cannula.png",
+    "img": "./nasal-oxygen-cannula.png",
     "imgExists": true
   },
   {
@@ -846,7 +846,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/adjustable-venturi-mask.png",
+    "img": "./adjustable-venturi-mask.png",
     "imgExists": true
   },
   {
@@ -856,7 +856,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/venturi-mask.png",
+    "img": "./venturi-mask.png",
     "imgExists": true
   },
   {
@@ -866,7 +866,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/oxygen-supply-tube.png",
+    "img": "./oxygen-supply-tube.png",
     "imgExists": true
   },
   {
@@ -876,7 +876,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/nebulizer-mask.png",
+    "img": "./nebulizer-mask.png",
     "imgExists": true
   },
   {
@@ -886,7 +886,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/oxygen-non-re-breathing-mask.png",
+    "img": "./oxygen-non-re-breathing-mask.png",
     "imgExists": true
   },
   {
@@ -896,7 +896,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/oxygen-mask.png",
+    "img": "./oxygen-mask.png",
     "imgExists": true
   },
   {
@@ -906,7 +906,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/aerosol-mask.png",
+    "img": "./aerosol-mask.png",
     "imgExists": true
   },
   {
@@ -916,7 +916,7 @@
     "category": "respiratory",
     "categoryName": "Respiratory",
     "categoryNameAr": "التنفسي",
-    "img": "./products/oxygen-humidifier.png",
+    "img": "./oxygen-humidifier.png",
     "imgExists": true
   },
   {
@@ -926,7 +926,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/lead-eyeglasses.png",
+    "img": "./lead-eyeglasses.png",
     "imgExists": true
   },
   {
@@ -936,7 +936,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/lead-skirt.png",
+    "img": "./lead-skirt.png",
     "imgExists": true
   },
   {
@@ -946,7 +946,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/lead-gloves.png",
+    "img": "./lead-gloves.png",
     "imgExists": true
   },
   {
@@ -956,7 +956,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/lead-collar.png",
+    "img": "./lead-collar.png",
     "imgExists": true
   },
   {
@@ -966,7 +966,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/lead-apron.png",
+    "img": "./lead-apron.png",
     "imgExists": true
   },
   {
@@ -976,7 +976,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/latex-glove.png",
+    "img": "./latex-glove.png",
     "imgExists": true
   },
   {
@@ -986,7 +986,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/nitrile-glove.png",
+    "img": "./nitrile-glove.png",
     "imgExists": true
   },
   {
@@ -996,7 +996,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/vinyl-glove.png",
+    "img": "./vinyl-glove.png",
     "imgExists": true
   },
   {
@@ -1006,7 +1006,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/shoe-cover.png",
+    "img": "./shoe-cover.png",
     "imgExists": true
   },
   {
@@ -1016,7 +1016,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/isolation-gown.png",
+    "img": "./isolation-gown.png",
     "imgExists": true
   },
   {
@@ -1026,7 +1026,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/surgeon-cap.png",
+    "img": "./surgeon-cap.png",
     "imgExists": true
   },
   {
@@ -1036,7 +1036,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/nurse-cap.png",
+    "img": "./nurse-cap.png",
     "imgExists": true
   },
   {
@@ -1046,7 +1046,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/surgical-face-mask.png",
+    "img": "./surgical-face-mask.png",
     "imgExists": true
   },
   {
@@ -1056,7 +1056,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/face-mask-n95.png",
+    "img": "./face-mask-n95.png",
     "imgExists": true
   },
   {
@@ -1066,7 +1066,7 @@
     "category": "protective",
     "categoryName": "Protective Apparel",
     "categoryNameAr": "الملابس الواقية",
-    "img": "./products/face-mask-ear-loop.png",
+    "img": "./face-mask-ear-loop.png",
     "imgExists": true
   }
 ]
